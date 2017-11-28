@@ -1,0 +1,4 @@
+how to make tea:
+	1. collect tea_leaf.
+	2. collect 2 spoon sugar
+	3. boil the misture of sugar and leaf in water
